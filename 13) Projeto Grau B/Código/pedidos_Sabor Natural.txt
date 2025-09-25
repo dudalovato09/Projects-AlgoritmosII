@@ -1,0 +1,7 @@
+============ LISTA DE PEDIDOS - Restaurante Sabor Natural =============
+
+Pedido 1:
+ - arroz
+: R$ 5,00
+ Total: R$ 5,00
+==================================================================
